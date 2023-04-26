@@ -12,6 +12,10 @@ public class AtmApp {
         //nsb1
         System.out.println("");
         //nsb3
+        System.out.println();
+        if (true){
+            System.out.println();
+        }
 
     }
 }
