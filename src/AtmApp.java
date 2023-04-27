@@ -16,6 +16,7 @@ public class AtmApp {
         if (true){
             System.out.println();
         }
+        //remote repoda değişiklik yaptım.
 
     }
 }
